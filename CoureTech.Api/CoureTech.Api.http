@@ -1,0 +1,28 @@
+@CoureTech.Api_HostAddress = http://localhost:5028
+
+### Question 1 – Score calculator
+GET {{CoureTech.Api_HostAddress}}/score?numbers=1,2,3,4,5
+Accept: application/json
+
+###
+
+GET {{CoureTech.Api_HostAddress}}/score?numbers=15,25,35
+Accept: application/json
+
+###
+
+GET {{CoureTech.Api_HostAddress}}/score?numbers=8,8
+Accept: application/json
+
+###
+
+### Question 2 – Phone number lookup
+GET {{CoureTech.Api_HostAddress}}/phone/2348033432323
+Accept: application/json
+
+###
+
+GET {{CoureTech.Api_HostAddress}}/phone/233201234567
+Accept: application/json
+
+###
