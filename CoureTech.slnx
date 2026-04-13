@@ -3,5 +3,5 @@
   <Project Path="CoureTech.Application/CoureTech.Application.csproj" />
   <Project Path="CoureTech.Domain/CoureTech.Domain.csproj" />
   <Project Path="CoureTech.Infrastructure/CoureTech.Infrastructure.csproj" />
-  <!--Project Path="CoureTech.Tests/CoureTech.Tests.csproj" />
+  <!--Project Path="CoureTech.Tests/CoureTech.Tests.csproj" /-->
 </Solution>
