@@ -18,7 +18,7 @@ A .NET 8 Web API built as part of a technical assessment.
 
 ## Prerequisites
 
-- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - No database setup needed — the app uses an in-memory database that is seeded automatically on startup
 
 ## Setup
